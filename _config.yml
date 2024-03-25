@@ -4,7 +4,7 @@ title: "josemarix"
 description: "I hope you enjoy the pieces I’ve put up.  I only do this part-time as a way to express myself artistically.  Each piece is very special and thoughtfully put together.  "
 logo: 'assets/images/logo.jpg'
 favicon: 'assets/images/logo.jpg'
-baseurl: 'https://josemarix.com'
+baseurl: ''
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
 include: ["_pages"]

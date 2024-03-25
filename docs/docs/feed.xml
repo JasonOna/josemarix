@@ -3,10 +3,10 @@
   <channel>
     <title>josemarix</title>
     <description>I hope you enjoy the pieces I’ve put up.  I only do this part-time as a way to express myself artistically.  Each piece is very special and thoughtfully put together.  </description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 25 Mar 2024 15:51:14 +1000</pubDate>
-    <lastBuildDate>Mon, 25 Mar 2024 15:51:14 +1000</lastBuildDate>
+    <link>https://josemarix.com/</link>
+    <atom:link href="https://josemarix.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 25 Mar 2024 15:41:52 +1000</pubDate>
+    <lastBuildDate>Mon, 25 Mar 2024 15:41:52 +1000</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
     
       <item>
@@ -64,8 +64,8 @@
 &lt;p&gt;&lt;img src=&quot;../assets/images/processGlaze.jpeg&quot; alt=&quot;process glazed&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 25 Mar 2024 00:00:00 +1000</pubDate>
-        <link>/donut-judge/</link>
-        <guid isPermaLink="true">/donut-judge/</guid>
+        <link>https://josemarix.com/donut-judge/</link>
+        <guid isPermaLink="true">https://josemarix.com/donut-judge/</guid>
         
         
       </item>
