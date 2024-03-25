@@ -4,12 +4,18 @@ title: About
 permalink: /about
 ---
 
-This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.
+![logo](../assets/images/artistSmile.png)
 
-#### Documentation
+Hello! Welcome to my website.  My name is Joe and I’ve been throwing pottery since 2018.  It began as a group birthday event over at [Clayroom Studio](https://www.clayroomsf.com/) in Potrero District and then became a passion and hobby.
 
-Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.
+I hope you enjoy the pieces I’ve put up.  I only do this part-time as a way to express myself artistically.  Each piece is very special and thoughtfully put together.  
 
-#### Questions or bug reports?
+Currently, I’ve worked on a limited series of donut bud vases inspired by a shirt and a subversive message which I feel is quite appropriate in these times.
 
-Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!
+I’ll post more projects as they come to me.  If you have any suggestions, please feel free to reach out and share your ideas!
+
+Much appreciation and love,
+
+Joe
+
+[josemarix@gmail.com](mailto:josemarix@gmail.com)
