@@ -8,9 +8,9 @@ hidden: true
 comments: false
 ---
 
-So, why donuts?  I feel that donuts are a universally regarded as a happy treat.  I wanted to take something that lasts mere seconds (at least when I get my hands on them) and set them in ceramic to last a lifetime.  I’ve sculpted and shaped each donut into ones with sprinkles, abstract designs and inspiration from the French cruller (my personal favorite)! 
+So, why donuts?  I feel that donuts are a universally regarded as a happy treat.  I wanted to take something that lasts mere seconds (at least when I get my hands on them) and set them in ceramic to last a lifetime.  I’ve sculpted and shaped each donut into ones with sprinkles, abstract designs and inspiration from the French cruller (my personal favorite)!
 
-## Here’s the process:
+## Here’s the process
 
 ### 1. Each donut starts as a mound of clay approximately 1 lb in weight
 
